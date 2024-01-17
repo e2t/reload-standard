@@ -1,4 +1,6 @@
-﻿# Reload-Standard
+This project has been moved to https://codeberg.org/e2t/reload-standard
+ 
+ # Reload-Standard
 Макрос для установки настроек документа SolidWorks по "чертежному стандарту".
 
 ### Зависимости
